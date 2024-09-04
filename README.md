@@ -2,18 +2,17 @@
 
 ## Overview
 
-This project is an Unreal Engine application that focuses on the Common UI. The project includes implementations of keyboard and gamepad inputs using Common UI components and follows the Common UI style approach.
+This project is an Unreal Engine application that focuses on UI materials and animations. The project includes implementations of keyboard and gamepad inputs using Common UI components and follows the Common UI style approach.
 
 ## Features
 
 - **UMG Integration**: Utilizes Unreal Engine's UMG for creating user interfaces.
+- **UI animation and animated materials**: Utilizes Unreal's material and UMG animation tools to create dynamic UI elements
 - **Common UI Components**: Implements Common UI components for a consistent and flexible UI design.
-- **Enhanced Input**: Supports Enhanced Input with CommonUI.
-- **Responsive Design**: Ensures the UI is responsive and works seamlessly across different input methods.
 
 ## Demo
 
-[![Demo Video](https://github.com/peregrine22/ShopUI/blob/main/shop-ui-thumbnail.png)]([https://youtu.be/w94gDPrTa3E](https://youtu.be/NeFl1VmqaTc))
+[![Demo Video](https://github.com/peregrine22/CharacterMenu/blob/main/character-menu-thumbnail.png)]([https://youtu.be/w94gDPrTa3E](https://youtu.be/NeFl1VmqaTc))
 
 *Click above to watch the demo video.*
 
